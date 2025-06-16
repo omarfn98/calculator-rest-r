@@ -4,7 +4,7 @@ This project provides a simple REST API in R that **adds comma-separated numbers
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
